@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NetWork API Json</string>
+    <string name="falsebtn">False</string>
+    <string name="truebtn">True</string>
+</resources>
